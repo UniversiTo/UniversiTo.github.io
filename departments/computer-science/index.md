@@ -4,6 +4,6 @@
 
 ## Candidates:
 
-- ### polpiantina
-Paolo Guiot
+- ### polpiantina 
 ![photo](./resources/images/polpiantina.png)
+Paolo Guiot

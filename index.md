@@ -6,5 +6,5 @@ Click on a card to be redirected to the corresponding page.
 
 ## Departments
 
-- [Department of Computer Science](./departments/computer-science/computer-science.md)
-- [Department of Medicine](./departments/medicine/medicine.md)
+- [Department of Computer Science](./departments/computer-science/index.md)
+- [Department of Medicine](./departments/medicine/index.md)
